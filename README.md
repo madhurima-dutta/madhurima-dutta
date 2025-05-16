@@ -27,27 +27,27 @@ I thrive on building solutions that are as practical as they are intelligent.
     <td><strong>💻 Languages</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-      <img src="https://img.icons8.com/color/48/sql.png" width="40" title="SQL"/>
-      <img src="https://img.icons8.com/ios-filled/50/000000/latex.png" width="40" title="LaTeX"/>
+      <img src="https://img.icons8.com/fluency/48/sql.png" width="40" title="SQL"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40" title="LaTeX"/>
     </td>
   </tr>
   <tr>
     <td><strong>📊 BI & Analytics</strong></td>
     <td>
       <img src="https://img.icons8.com/color/48/power-bi.png" width="40" title="Power BI"/>
-      <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" title="Excel"/>
-      <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" width="40" title="Word"/>
-      <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" width="40" title="PowerPoint"/>
+      <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="40" title="Excel"/>
+      <img src="https://img.icons8.com/fluency/48/microsoft-word-2019.png" width="40" title="Word"/>
+      <img src="https://img.icons8.com/fluency/48/microsoft-powerpoint-2019.png" width="40" title="PowerPoint"/>
     </td>
   </tr>
   <tr>
     <td><strong>📚 Libraries & ML</strong></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" title="Seaborn"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" title="Scikit-learn"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40" title="NumPy"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40" title="Pandas"/>
+      <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" title="Matplotlib"/>
+      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" title="Seaborn"/>
+      <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" title="Scikit-learn"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/>
     </td>
@@ -57,19 +57,19 @@ I thrive on building solutions that are as practical as they are intelligent.
     <td>Linear Algebra, Calculus, Probability, Statistics</td>
   </tr>
   <tr>
-    <td><strong>🛢 Databases</strong></td>
+    <td><strong>🛢️ Databases</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
     </td>
   </tr>
   <tr>
-    <td><strong>🌐 Web & Tools</strong></td>
+    <td><strong>🧰 Web & Tools</strong></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40" title="Streamlit"/>
+      <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="60" title="Streamlit"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40" title="Google Colab"/>
+      <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" title="Google Colab"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" title="Kaggle"/>
     </td>
   </tr>

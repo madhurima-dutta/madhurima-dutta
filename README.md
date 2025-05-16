@@ -1,29 +1,29 @@
 
-<h1 align="center">👩‍💻 Hey, I'm <span style="color:#ff69b4;">Madhurima Dutta</span>!</h1>
+<h1 align="center">✨ Hey there, I'm <span style="color:#FF69B4;">Madhurima Dutta</span>!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Data+Analyst+📊;Predictive+Modeler+📈;Dashboard+Specialist+📊" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%8A;Predictive+Modeler+%F0%9F%93%88;Dashboard+Specialist+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+ML+Explorer" />
 </p>
 
 <p align="center">
-  📍 Mumbai, India &nbsp;|&nbsp;
-  📧 <a href="mailto:madhurimadutta2001@gmail.com">Email</a> &nbsp;|&nbsp;
-  🌐 <a href="https://madhu-rima.netlify.app">Portfolio</a> &nbsp;|&nbsp;
-  💻 <a href="https://github.com/madhurima-dutta">GitHub</a> &nbsp;|&nbsp;
-  🔗 <a href="https://www.linkedin.com/in/madhu-rima-dutta">LinkedIn</a>
+  <a href="mailto:madhurimadutta2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/madhu-rima-dutta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://madhu-rima.netlify.app"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
+  <a href="https://github.com/madhurima-dutta"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🌟 I'm a <strong>Data Analyst</strong> with a passion for transforming numbers into narratives.  
-💡 I focus on <strong>predictive modeling, automation, and dashboarding</strong> to support business intelligence.  
-📚 With a background in <strong>Mathematics</strong> and a love for <strong>visual storytelling</strong>, I thrive at the intersection of logic and creativity.
+🌟 I'm a <b>Data Analyst</b> driven by curiosity and creativity.  
+🔍 I specialize in <b>predictive modeling, automation, and business dashboards</b>.  
+📚 With a solid foundation in <b>Mathematics</b>, I bridge logic with visual storytelling.  
+🎯 I strive to convert complex data into smart, impactful decisions.
 
 ---
 
-## 🛠️ My Toolkit
+## 🔧 My Toolkit
 
 <table>
   <tr>
@@ -80,14 +80,17 @@
 
 ---
 
-## 🌍 Let's Connect
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://linkedin.com/in/madhu-rima-dutta"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://madhu-rima.netlify.app"><img src="https://img.shields.io/badge/Portfolio-website-blueviolet?style=for-the-badge&logo=google-chrome" /></a>
-  <a href="mailto:madhurimadutta2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=madhurima-dutta&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhurima-dutta&theme=radical" width="49%" />
 </p>
 
 ---
 
-<p align="center"><em>"Empowering decisions with mathematics, models, and meaning."</em></p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+<p align="center"><em>“Empowering decisions with mathematics, models, and meaning.”</em></p>

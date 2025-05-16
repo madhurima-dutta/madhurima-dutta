@@ -28,16 +28,8 @@ I thrive on building solutions that are as practical as they are intelligent.
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
       <img src="https://img.icons8.com/color/48/sql.png" width="40" title="SQL"/>
-      <img src="https://img.icons8.com/ios-filled/50/000000/latex.png" width="40" title="LaTeX"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>📊 BI & Analytics</strong></td>
-    <td>
-      <img src="https://img.icons8.com/color/48/power-bi.png" width="40" title="Power BI"/>
-      <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" title="Excel"/>
-      <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" width="40" title="Word"/>
-      <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" width="40" title="PowerPoint"/>
+      <!-- LaTeX text badge -->
+      <a href="https://www.latex-project.org/" target="_blank" title="LaTeX" style="text-decoration:none; font-weight:bold; font-size:28px; color:#008080; margin-left:10px;">LaTeX</a>
     </td>
   </tr>
   <tr>
@@ -46,20 +38,12 @@ I thrive on building solutions that are as practical as they are intelligent.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" title="Seaborn"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" title="Scikit-learn"/>
+      <!-- Seaborn text badge -->
+      <a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn" style="text-decoration:none; font-weight:bold; font-size:28px; color:#4C72B0; margin-left:10px;">Seaborn</a>
+      <!-- Scikit-learn text badge -->
+      <a href="https://scikit-learn.org/" target="_blank" title="Scikit-learn" style="text-decoration:none; font-weight:bold; font-size:28px; color:#F7931E; margin-left:10px;">sklearn</a>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🧠 Math & Stats</strong></td>
-    <td>Linear Algebra, Calculus, Probability, Statistics</td>
-  </tr>
-  <tr>
-    <td><strong>🛢 Databases</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
     </td>
   </tr>
   <tr>
@@ -69,12 +53,12 @@ I thrive on building solutions that are as practical as they are intelligent.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40" title="Google Colab"/>
+      <!-- Google Colab text badge -->
+      <a href="https://colab.research.google.com/" target="_blank" title="Google Colab" style="text-decoration:none; font-weight:bold; font-size:28px; color:#F9AB00; margin-left:10px;">Colab</a>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" title="Kaggle"/>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🌍 Let's Connect
